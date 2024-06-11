@@ -1,8 +1,5 @@
-<h3 align="center">👨‍💻 About Me<br><br>Hi there! I'm an experienced System Security Engineer known for delivering high-quality work. I focus on securing infrastructures, performing penetration tests, and tackling programming challenges. I'm passionate about ensuring web applications are safe through thorough testing and finding vulnerabilities. I'm recognized for providing valuable insights and working well in complex environments.<br><br><br>Feel free to explore my repositories and get in touch if you want to collaborate on exciting projects. <br>Let's build something amazing together!</h3>
-
-<br><br>
-
-
+<h4 align="center">👨‍💻 About Me<br><br>Hi there! I'm an experienced System Security Engineer known for delivering high-quality work. I focus on securing infrastructures, performing penetration tests, and tackling programming challenges. I'm passionate about ensuring web applications are safe through thorough testing and finding vulnerabilities. I'm recognized for providing valuable insights and working well in complex environments.<br><br><br>Feel free to explore my repositories and get in touch if you want to collaborate on exciting projects. <br>Let's build something amazing together!</h4>
+<br>
 
 ###
 
