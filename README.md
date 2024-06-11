@@ -1,4 +1,12 @@
-<h3 align="center">👨‍💻 About Me<br><br>Hi there! I'm an experienced System Security Engineer known for delivering high-quality work. I focus on securing infrastructures, performing penetration tests, and tackling programming challenges. I'm passionate about ensuring web applications are safe through thorough testing and finding vulnerabilities.<br><br>Feel free to explore my repositories and get in touch if you want to collaborate on exciting projects. <br>Let's build something amazing together!</h3>
+<h3 align="center">👨‍💻 About Me<br><br>Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> I'm an experienced System Security Engineer known for delivering high-quality work. I focus on securing infrastructures, performing penetration tests, and tackling programming challenges. I'm passionate about ensuring web applications are safe through thorough testing and finding vulnerabilities.<br><br>Feel free to explore my repositories and get in touch if you want to collaborate on exciting projects.
+  <p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=475&height=93&lines=Let's+build+something+amazing+together!" /></a>
+</p>
+ 
+
+</h3>
 <br>
 
 ###
