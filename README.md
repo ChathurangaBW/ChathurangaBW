@@ -18,12 +18,15 @@
     <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
 </a>
 
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+
+</div>
+ <div>
+     <p align="center">
+
 
 ![](https://hit.yhype.me/github/profile?user_id=4383991)
-</div>
- 
+</p>
+ </div>
 
 ###
 
