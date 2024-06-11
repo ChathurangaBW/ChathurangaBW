@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/PdOMR5d20WwCwpSvag/giphy.gif?cid=6c09b952exln572izqsf36nmwn1b5e2qjvgvix5jwnl889zg&ep=v1_internal_gif_by_id&rid=giphy.gif"  />
+<img align="right" height="150" src="https://github.com/ChathurangaBW/ChathurangaBW/blob/main/PdOMR5d20WwCwpSvag.webp"  />
 
 ###
 
