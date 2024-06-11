@@ -4,21 +4,24 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=475&height=93&lines=Let's+build+something+amazing+together!" /></a>
 </p>
- 
+ </h3>
 
-</h3>
-<br>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChathurangaBW&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="120" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=ChathurangaBW&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="120" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChathurangaBW&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="120" alt="languages graph"  />
+
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
+</a>
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?user_id=4383991)
 </div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ChathurangaBW/count.svg?"  />
-</div>
+ 
 
 ###
 
