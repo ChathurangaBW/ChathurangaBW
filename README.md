@@ -14,16 +14,16 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChathurangaBW&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="120" alt="languages graph"  />
 
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
-    
-</a>
+
 
  </br>
 </div>
  </br>
- <div>
-
+<div align="center">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
+    
+</a>
    </br>
  </div>
 <div align="center">
